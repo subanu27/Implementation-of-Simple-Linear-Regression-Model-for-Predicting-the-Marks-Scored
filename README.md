@@ -16,7 +16,7 @@ To write a program to implement the simple linear regression model for predictin
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
-
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Subanu K
@@ -51,7 +51,7 @@ plt.title("hours vs scores(training set)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
-
+```
 
 ## Output:
 ![Screenshot (92)](https://user-images.githubusercontent.com/87663343/169567830-05152584-04a9-4e6d-a26a-f96496b765ad.png)
