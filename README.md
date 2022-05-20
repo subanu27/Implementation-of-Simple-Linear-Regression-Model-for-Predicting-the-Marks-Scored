@@ -54,8 +54,9 @@ plt.show()
 
 
 ## Output:
-![Screenshot (92)](https://user-images.githubusercontent.com/87663343/169557915-413b2866-bbb3-4af2-a8d8-6f4a618ee6be.png)
-![Screenshot (94)](https://user-images.githubusercontent.com/87663343/169558351-48227642-5a19-4da6-bcbe-43b658e707bb.png)
+![image](https://user-images.githubusercontent.com/87663343/169563473-45c26ddf-7aee-4700-b68e-a01418bc8bd0.png)
+![image](https://user-images.githubusercontent.com/87663343/169563609-a7bed5aa-ffc5-4ba9-8516-f66f5e01b2d7.png)
+
 
 
 
